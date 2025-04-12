@@ -10,11 +10,14 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=itsShivamsaurav&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=itsShivamsaurav&theme=gruvbox_light&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsShivamsaurav&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+  <span>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=itsShivamsaurav&theme=gruvbox_light&hide_border=false" height="200px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsShivamsaurav&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200px"/>
+  </span>
 
 </div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
